@@ -37,7 +37,7 @@ A Boolean is a value that is represented by a single bit. This means that it is 
 >
 >i = 10
 >
->(i < 15) is True
+>(i < 15) is False
 
 <br>
 
@@ -96,24 +96,26 @@ print(type(age))
 
 What is the difference between "42" and 42.
 
- - Answer:
+ - Answer:"42" is identified as a string adn 42 is identified as a integer.
 
 Define the boolean operators: >, <, ==, >=, <=
 
- - Answer:
+ - Answer: > means more < means less >= means more equal to and <= means less equal to.
 
 How do you address an index in an list? Write a python code that assigns 34 to a new variable by accessing the value stored in:  
         arr = [4, 3, -1, 4, 34]
 
- - Answer:
+ - Answer: You addres an indez in an list by putting an arr[what you want to address and then print it]
 
 What is the first index of a list? Why?
 
- - Answer:
+ - Answer:The first index is 0
 
 Provide an original example of a null value. It must prove your understanding of the concept.
 
- - Answer:
+ - Answer: Null is something that has no value
+ an example age = 4
+            Null = 4 so now null has no value
 
 Type down any class notes below this sentence:
 
