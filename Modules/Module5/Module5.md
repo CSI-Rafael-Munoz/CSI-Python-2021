@@ -81,10 +81,15 @@ print(f"Computer selected: {computerChoice}")
 Give a python example for each logic operator in the module image.
 
  - Answers:
-   - OR:
-   - AND: 
-   - NOT: 
-
+     - OR:numbers = 8
+if ( 8 != 10 or 8 != 9):
+  print("Your numbers is to low")
+   - AND: guns  = 50
+if (guns > 48 and guns < 100):
+  print("You will have 50 guns")
+   - NOT: JC = 80
+if not(80 == 70):
+  print("80 is not a good numnber")
 
 Type down any class notes below this sentence:
 
