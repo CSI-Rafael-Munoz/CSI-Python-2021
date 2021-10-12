@@ -90,6 +90,7 @@ if (guns > 48 and guns < 100):
    - NOT: JC = 80
 if not(80 == 70):
   print("80 is not a good numnber")
+  
 
 Type down any class notes below this sentence:
 
