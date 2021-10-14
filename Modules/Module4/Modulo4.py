@@ -17,8 +17,8 @@
 # myAge:int = 15
 # myString = f'Hello {myName}!You are {myAge}'
 # print(myString)
-ss1 =(s1[26:44])
-print(ss1)
- 
-SS1 = ss1.upper()
-print(SS1)
+
+myName:str = "Rafael A. Munoz"
+myAge:int = 15
+myString = f'Hello {myName}!You are {myAge}'
+print(myString)
