@@ -71,4 +71,6 @@ experimentJson = json.load(deserialize)
 for e in experimentJson:
     print("\n--------------------------------------------------------------------\n")
     ProjectileFunction(ExperimentalData(**e))
-        #projectileFunction(expiramentalData)
+        # projectileFunction(expiramentalData)
+        #deserializacion
+        

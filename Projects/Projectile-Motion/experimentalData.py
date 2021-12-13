@@ -7,3 +7,5 @@ class ExperimentalData:
         self.Building = Building
         self.Building_Height = Building_Height
         self.planet = planet
+
+#constructor
