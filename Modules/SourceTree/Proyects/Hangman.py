@@ -1,7 +1,7 @@
 from distutils.command.sdist import sdist
 import random
-word_list = ["Bucana", "Inabon", "Jacaguas", "Grande de Manati", "Rio Grande de Arecibo", "Espiritu Santo", "Matilde",
-"Rio Grande de Loiza", "Guajataca", "Cibuco" ]
+word_list = ["Bucana", "Inabon", "Jacaguas", "GrandedeManati", "RioGrandedeArecibo", "Espiritu Santo", "Matilde",
+"RioGrandedeLoiza", "Guajataca", "Cibuco" ]
 
 def get_word(word_list):
     word = random.choice(word_list)
