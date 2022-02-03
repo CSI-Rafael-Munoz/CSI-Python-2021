@@ -1,3 +1,4 @@
+from distutils.command.sdist import sdist
 import random
 word_list = ["Bucana", "Inabon", "Jacaguas", "Grande de Manati", "Rio Grande de Arecibo", "Espiritu Santo", "Matilde",
 "Rio Grande de Loiza", "Guajataca", "Cibuco" ]
@@ -129,4 +130,4 @@ def main():
         play(word)
 
 if __name__ == "__main__":
-    main()
+    main() 
